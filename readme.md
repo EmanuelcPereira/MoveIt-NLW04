@@ -3,7 +3,7 @@
 
 Projeto desenvolvido durante Next Level Week da Rocketseat como forma de aprender novas features do React utilizando NextJS e Context API. A aplicação é um poomodoro que finalizado 25 mminutos te traz alguns desafios de movimentação corporal com foco na melhoria da ergonomia.
 
-![](header.png)
+![Details web](https://github.com/EmanuelcPereira/MoveIt-NLW04/blob/main/public/assets/Screenshot.png)
 
 ## Rodando a aplicação
 Caso queira conhecer o funcionamento da aplicação acesso o <a href="https://moveit-next-dntff603k-emanuelcpereira.vercel.app">link</a> do projeto hospedado na Vercel ou faça um fork da aplicação e execute localmente.
@@ -24,9 +24,6 @@ Agora sua aplicação aplicação está pronta para ser executada. Bastando exec
 ```
 yarn dev
 ```
-
-
-
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -52,7 +49,6 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
  <img style="border-radius: 50%;" src="https://github.com/emanuelcpereira.png" width="100px;" alt=""/>
  <br />
  <sub><b>Emanuel Pereira</b></sub></a>
-
 
 [![Twitter Badge](https://img.shields.io/badge/-@Emanuelcdpr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Emanuelcdpr)](https://twitter.com/Emanuelcdpr) [![Linkedin Badge](https://img.shields.io/badge/-Emanuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/emanuel-c-pereira/) 
 [![Gmail Badge](https://img.shields.io/badge/-emanuelcdpr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:emanuelcdpr@gmail.com)
